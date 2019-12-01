@@ -1,0 +1,547 @@
+LYXOR 2XSHRT SP500;https://www.boursorama.com/bourse/trackers/cours/1rTDSP5/
+LYXOR ETF BX4;https://www.boursorama.com/bourse/trackers/cours/1rTBX4/
+LYXOR ETF SX50 DDS;https://www.boursorama.com/bourse/trackers/cours/1rTBXX/
+LYXOR ETF DAX DS2;https://www.boursorama.com/bourse/trackers/cours/1rTDSD/
+AMUNDI ETF SHT E50;https://www.boursorama.com/bourse/trackers/cours/1rTC5S/
+AMUNDI ETF SH CAC;https://www.boursorama.com/bourse/trackers/cours/1rTC4S/
+AMUNDI ETF SHT USA;https://www.boursorama.com/bourse/trackers/cours/1rTC2U/
+LYXOR ETF SHT CAC;https://www.boursorama.com/bourse/trackers/cours/1rTSHC/
+LYXOR ETF SX50 DS;https://www.boursorama.com/bourse/trackers/cours/1rTBSX/
+LYXOR ETF MSC GLDE;https://www.boursorama.com/bourse/trackers/cours/1rTGLDM/
+LYXOR EUROMTS 15PY;https://www.boursorama.com/bourse/trackers/cours/1rTMTF/
+LYXOR ETF BUND DL;https://www.boursorama.com/bourse/trackers/cours/1rTDLB/
+BNPP MUTB JAPAN;https://www.boursorama.com/bourse/trackers/cours/1rTISTM/
+GOLD BULLION SEC;https://www.boursorama.com/bourse/produits-de-bourse/cours/1rPGBS
+AMUNDI ETF IG 7-10;https://www.boursorama.com/bourse/trackers/cours/1rTC73/
+LYXOR EMTS HR MW G;https://www.boursorama.com/bourse/trackers/cours/1rTMAA/
+SPDR Euro Govt;https://www.boursorama.com/bourse/trackers/cours/1rTGOVY/
+BNPP EASY JPMGBI;https://www.boursorama.com/bourse/trackers/cours/1rTJBEM/
+LYXOR LY DURA 25Y;https://www.boursorama.com/bourse/trackers/cours/1rTMTH/
+MULTI  IBXX TR 10Y;https://www.boursorama.com/bourse/trackers/cours/1rTUS10/
+AMUNDI US CORP SRI;https://www.boursorama.com/bourse/trackers/cours/1rTUCRP/
+LYXOR EUROMTS 710Y;https://www.boursorama.com/bourse/trackers/cours/1rTMTD/
+AMUNDI G AGG500 DR;https://www.boursorama.com/bourse/trackers/cours/1rTGAGG/
+AMUNDI ETF UST7-10;https://www.boursorama.com/bourse/trackers/cours/1rTUS7/
+AMUNDI JPM GBI H E;https://www.boursorama.com/bourse/trackers/cours/1rTGOVH/
+SPDR US Agg;https://www.boursorama.com/bourse/trackers/cours/1rTUSAG/
+AMUNDI G AG500 UH;https://www.boursorama.com/bourse/trackers/cours/1rTGAHU/
+LYXOR MTS ALL MAT;https://www.boursorama.com/bourse/trackers/cours/1rTMTX/
+BNPP EASY USTRETF;https://www.boursorama.com/bourse/trackers/cours/1rTUSTY/
+MULTI EU CORP BOND;https://www.boursorama.com/bourse/trackers/cours/1rTCRP/
+LYXOR ETF BTP DDS;https://www.boursorama.com/bourse/trackers/cours/1rTBTPS/
+AMUNDI ETF IG 5-7;https://www.boursorama.com/bourse/trackers/cours/1rTC53/
+LYXOR GREEN BOND;https://www.boursorama.com/bourse/trackers/cours/1rTCLIM/
+LYXOR EUROMTS 1015;https://www.boursorama.com/bourse/trackers/cours/1rTMTE/
+AMUNDI ETF USTR3-7;https://www.boursorama.com/bourse/trackers/cours/1rTUS3/
+AMUNDI ETF EUR CRP;https://www.boursorama.com/bourse/trackers/cours/1rTCC4/
+MULTI L EMTS B 57Y;https://www.boursorama.com/bourse/trackers/cours/1rTMA57/
+AMUNDI JPM GBI DR;https://www.boursorama.com/bourse/trackers/cours/1rTGGOV/
+AMUNDI EU CORP BBB;https://www.boursorama.com/bourse/trackers/cours/1rTCBBB/
+Lyx GILTS Infla;https://www.boursorama.com/bourse/trackers/cours/1rTGILI/
+AMUNDI ETF EX AAA;https://www.boursorama.com/bourse/trackers/cours/1rTX1G/
+AMUNDI ETF CRP FIN;https://www.boursorama.com/bourse/trackers/cours/1rTAFIN/
+LYXOR ETF ATHEX 20;https://www.boursorama.com/bourse/trackers/cours/1rTGRE/
+AMUNDI ETF IG 3-5;https://www.boursorama.com/bourse/trackers/cours/1rTC33/
+IQ EUR SOV SRI;https://www.boursorama.com/bourse/trackers/cours/1rTIQEG/
+SPDR Euro Agg;https://www.boursorama.com/bourse/trackers/cours/1rTEAGG/
+AMUNDI LW RATED D;https://www.boursorama.com/bourse/trackers/cours/1rTX1GD/
+AMUNDI ETF INFL;https://www.boursorama.com/bourse/trackers/cours/1rTCI3/
+AMUNDI ETF AAA;https://www.boursorama.com/bourse/trackers/cours/1rTAM3A/
+AMUNDI ETF IG 1015;https://www.boursorama.com/bourse/trackers/cours/1rTC10/
+IQ EUR CORP SRI;https://www.boursorama.com/bourse/trackers/cours/1rTIQEC/
+SPDR EMD LOCAL;https://www.boursorama.com/bourse/trackers/cours/1rTEMLD/
+BNPP EASY MLCETF;https://www.boursorama.com/bourse/trackers/cours/1rTELQC/
+LYXOR IBOXX LIQ EM;https://www.boursorama.com/bourse/trackers/cours/1rTLEMB/
+AMUNDI EUR GOV DR;https://www.boursorama.com/bourse/trackers/cours/1rTEGOV/
+OSSIAM ETF MOOC;https://www.boursorama.com/bourse/trackers/cours/1rTMOOC/
+AMUNDI USCORP BBB;https://www.boursorama.com/bourse/trackers/cours/1rTUBBB/
+AMUNDI US TIPS;https://www.boursorama.com/bourse/trackers/cours/1rTUIFL/
+AMUNDI ETF CRP XFI;https://www.boursorama.com/bourse/trackers/cours/1rTAXFI/
+AMUNDI EURO CORP D;https://www.boursorama.com/bourse/trackers/cours/1rTCC4D/
+AMUNDI ETF IG ALL;https://www.boursorama.com/bourse/trackers/cours/1rTCB3/
+LYXOR MTS COV BOND;https://www.boursorama.com/bourse/trackers/cours/1rTECB/
+AMUNDI EURAGGCO DR;https://www.boursorama.com/bourse/trackers/cours/1rTECRP/
+LYXOR ETF CRN;https://www.boursorama.com/bourse/trackers/cours/1rTCRN/
+LYXOR EURMTS 57YIG;https://www.boursorama.com/bourse/trackers/cours/1rTMTC/
+AMUNDI ETF USTR1-3;https://www.boursorama.com/bourse/trackers/cours/1rTUS1/
+LYXOR TREAS 5 7Y;https://www.boursorama.com/bourse/trackers/cours/1rTUS57/
+MULTI EU CORP EX F;https://www.boursorama.com/bourse/trackers/cours/1rTCNB/
+SPDR Euro Corp;https://www.boursorama.com/bourse/trackers/cours/1rTEUCO/
+AMUNDI LOW RAT 1-3;https://www.boursorama.com/bourse/trackers/cours/1rTX13G/
+LYXOR EUROMTS 35;https://www.boursorama.com/bourse/trackers/cours/1rTMTB/
+IVZ EURMTS CASH 3M;https://www.boursorama.com/bourse/trackers/cours/1rTPEU/
+LYX 1-3Y BTP;https://www.boursorama.com/bourse/trackers/cours/1rTMI13/
+AMUNDI ETF FRN 1 3;https://www.boursorama.com/bourse/trackers/cours/1rTAFRN/
+LYXOR BOT MTS ETF;https://www.boursorama.com/bourse/trackers/cours/1rTBOT/
+SPDR 1-3 EUR GOV;https://www.boursorama.com/bourse/trackers/cours/1rTGOVS/
+MULTI L EMTS B 35Y;https://www.boursorama.com/bourse/trackers/cours/1rTMA35/
+ETFS SILVER;https://www.boursorama.com/bourse/produits-de-bourse/cours/1rPSLVRP
+SPDR US Treasury;https://www.boursorama.com/bourse/trackers/cours/1rTTSYE/
+BNPP EMEHETF;https://www.boursorama.com/bourse/trackers/cours/1rTEMEH/
+LYXOR CORE US;https://www.boursorama.com/bourse/trackers/cours/1rTLCUS/
+BNPP EU xUK ETF;https://www.boursorama.com/bourse/trackers/cours/1rTEEXU/
+BNPP EASYVALUED;https://www.boursorama.com/bourse/trackers/cours/1rTVALD/
+iSHR Mexico Cap;https://www.boursorama.com/bourse/trackers/cours/1rTCMEX/
+iSHR S&P500 B A;https://www.boursorama.com/bourse/trackers/cours/1rTCSPX/
+VANGUARD FTSE EM;https://www.boursorama.com/bourse/trackers/cours/1rTVFEM/
+iSHR NASDAQ 100;https://www.boursorama.com/bourse/trackers/cours/1rTCNDX/
+LYXOR US LIQ IG CB;https://www.boursorama.com/bourse/trackers/cours/1rTUSIH/
+IVZ Gbl Buyback;https://www.boursorama.com/bourse/trackers/cours/1rTBUYB/
+iSHR $ Gv 7-10A;https://www.boursorama.com/bourse/trackers/cours/1rTCBU0/
+BNPP EASY EMSRIETF;https://www.boursorama.com/bourse/trackers/cours/1rTEMIS/
+FIRST TRUST IPO;https://www.boursorama.com/bourse/trackers/cours/1rTFPXU/
+LYXOR ETF VIX EUR;https://www.boursorama.com/bourse/trackers/cours/1rTLVO/
+BNPP EASY EPREUETF;https://www.boursorama.com/bourse/trackers/cours/1rTEEEH/
+iSHR Brazil A;https://www.boursorama.com/bourse/trackers/cours/1rTCSBR/
+FIRST TRUST GLOBAL;https://www.boursorama.com/bourse/trackers/cours/1rTFGBL/
+iSHR Nikkei 225;https://www.boursorama.com/bourse/trackers/cours/1rTCNKY/
+iSHR Pac xJpn A;https://www.boursorama.com/bourse/trackers/cours/1rTCPXJ/
+IQ EMU SRI;https://www.boursorama.com/bourse/trackers/cours/1rTIQMU/
+VANGUARD S&P500;https://www.boursorama.com/bourse/trackers/cours/1rTVUSA/
+VANGUARD USDEMGVBN;https://www.boursorama.com/bourse/trackers/cours/1rTVEMT/
+iSHR MSCI EMUSC;https://www.boursorama.com/bourse/trackers/cours/1rTCEMU/
+BNPP GSCI ETF;https://www.boursorama.com/bourse/trackers/cours/1rTGSCU/
+ISHARES MSCI WOR A;https://www.boursorama.com/bourse/trackers/cours/1rPIWDA/
+iSHR FTSE 100 A;https://www.boursorama.com/bourse/trackers/cours/1rTCUKX/
+AMUNDI TPX GBP HD;https://www.boursorama.com/bourse/trackers/cours/1rTTPHG/
+iSHR Korea A;https://www.boursorama.com/bourse/trackers/cours/1rTCSKR/
+MULTI LY EU STXX B;https://www.boursorama.com/bourse/trackers/cours/1rPBNKE/
+CBK CCBI MM EUR;https://www.boursorama.com/bourse/trackers/cours/1rTCCME/
+iSHR FTSE MIB A;https://www.boursorama.com/bourse/trackers/cours/1rTCMIB/
+AMUNDI MSCI JAP Y;https://www.boursorama.com/bourse/trackers/cours/1rTCJ1Y/
+VANGUARD FTSE AW;https://www.boursorama.com/bourse/trackers/cours/1rTVWRL/
+L&G E Fund China A;https://www.boursorama.com/bourse/trackers/cours/1rTCASH/
+AMUNDI JPXNK 400;https://www.boursorama.com/bourse/trackers/cours/1rTJPNY/
+AMUNDI G AGG500 H;https://www.boursorama.com/bourse/trackers/cours/1rTGAGH/
+iSHR MSCI UK;https://www.boursorama.com/bourse/trackers/cours/1rTCSUK/
+VANGUARD FTSE JPN;https://www.boursorama.com/bourse/trackers/cours/1rTVJPN/
+AMUNDI FTSE100 GBP;https://www.boursorama.com/bourse/trackers/cours/1rTFTSE/
+iSHR E Gv 7-10A;https://www.boursorama.com/bourse/trackers/cours/1rTCBE0/
+iSHR $ Gov 3-7A;https://www.boursorama.com/bourse/trackers/cours/1rTCBU7/
+HSBC MSCI BRAZIL;https://www.boursorama.com/bourse/trackers/cours/1rTHBZ/
+FIRST TRUST JAPAN;https://www.boursorama.com/bourse/trackers/cours/1rTFJP/
+OSSIAM ETF GMARC C;https://www.boursorama.com/bourse/trackers/cours/1rTGMRC/
+iSHR EM Asia;https://www.boursorama.com/bourse/trackers/cours/1rTCEMA/
+iSHR ESTX50 B A;https://www.boursorama.com/bourse/trackers/cours/1rTCSX5/
+DIVERS COMMODITY;https://www.boursorama.com/bourse/trackers/cours/1rTDJC/
+iSHR Canada;https://www.boursorama.com/bourse/trackers/cours/1rTCSCA/
+VANGUARD FTSE HDY;https://www.boursorama.com/bourse/trackers/cours/1rTVHYL/
+ISHARES MSCI EUR A;https://www.boursorama.com/bourse/trackers/cours/1rPIMAE/
+iSHR E Gov 1-3A;https://www.boursorama.com/bourse/trackers/cours/1rTCBE3/
+iSHR $ Gov 1-3A;https://www.boursorama.com/bourse/trackers/cours/1rTCBU3/
+IVZ All World 3000;https://www.boursorama.com/bourse/trackers/cours/1rTPSRW/
+BNPP EASY JSRI ETF;https://www.boursorama.com/bourse/trackers/cours/1rTSRIJ/
+AMUNDI TPX CHF DH;https://www.boursorama.com/bourse/trackers/cours/1rTTPHC/
+UBS ETF AWSR;https://www.boursorama.com/bourse/trackers/cours/1rTAWSR/
+iSHR Japan A;https://www.boursorama.com/bourse/trackers/cours/1rTCSJP/
+VANGUARD FTSE APXJ;https://www.boursorama.com/bourse/trackers/cours/1rTVAPX/
+LYXOR KOREA PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPKRW/
+iSHR MSCI US SC;https://www.boursorama.com/bourse/trackers/cours/1rTCUSS/
+AMUNDI JPNK CHF HD;https://www.boursorama.com/bourse/trackers/cours/1rTJPHC/
+IVZ US HYFA;https://www.boursorama.com/bourse/trackers/cours/1rTHYFA/
+iSHR Russia ADR;https://www.boursorama.com/bourse/trackers/cours/1rTCSRU/
+iSHR DJ Ind Avg;https://www.boursorama.com/bourse/trackers/cours/1rTCIND/
+CBK CCBI MM CNY;https://www.boursorama.com/bourse/trackers/cours/1rTCCMR/
+AMUNDI FRN US HEU;https://www.boursorama.com/bourse/trackers/cours/1rTAFLE/
+LYX 10Y BTP;https://www.boursorama.com/bourse/trackers/cours/1rTMI10/
+LYXOR ETF EUR CASH;https://www.boursorama.com/bourse/trackers/cours/1rTCSH/
+LYXOR BAR FLOT 07Y;https://www.boursorama.com/bourse/trackers/cours/1rTFLOT/
+AMUNDI EURCORP BBB;https://www.boursorama.com/bourse/trackers/cours/1rTEBBB/
+BNPP EASY HIYEDETF;https://www.boursorama.com/bourse/trackers/cours/1rTHYPE/
+BNPP EASY HYDI ETF;https://www.boursorama.com/bourse/trackers/cours/1rTHYDI/
+LYXOR HIGH YLD BB;https://www.boursorama.com/bourse/trackers/cours/1rTHYBB/
+LYXOR 210 INFBRKEV;https://www.boursorama.com/bourse/trackers/cours/1rTINFL/
+LYXOR EUROMTS 13Y;https://www.boursorama.com/bourse/trackers/cours/1rTMTA/
+MULTI L EMTS B 13Y;https://www.boursorama.com/bourse/trackers/cours/1rTMA13/
+BNPP EASY BGOVETF;https://www.boursorama.com/bourse/trackers/cours/1rTGOMA/
+MULTI  INV U10 INF;https://www.boursorama.com/bourse/trackers/cours/1rTUINF/
+AMUNDI ETF HR 1-3;https://www.boursorama.com/bourse/trackers/cours/1rTAA13/
+SPDR 0-3 EUR CORP;https://www.boursorama.com/bourse/trackers/cours/1rTSEUC/
+AMUNDI ETF IG 1-3;https://www.boursorama.com/bourse/trackers/cours/1rTC13/
+AMUNDI ETF GV 0-6M;https://www.boursorama.com/bourse/trackers/cours/1rTC3M/
+LYXOR MTS INFLLINK;https://www.boursorama.com/bourse/trackers/cours/1rTMTI/
+LYXOR EP NA D EU;https://www.boursorama.com/bourse/trackers/cours/1rTMEH/
+AMUNDI FRN USD;https://www.boursorama.com/bourse/trackers/cours/1rTAFLT/
+AMUNDI ETF MKT NEU;https://www.boursorama.com/bourse/trackers/cours/1rTMKTN/
+LYXOR TREAS 1 3Y;https://www.boursorama.com/bourse/trackers/cours/1rTUS13/
+LYXOR BONO 10Y MTS;https://www.boursorama.com/bourse/trackers/cours/1rTES10/
+LYXOR ETF BTP DL;https://www.boursorama.com/bourse/trackers/cours/1rTBTPL/
+SPDR ER HIGH YIELD;https://www.boursorama.com/bourse/trackers/cours/1rTJNKE/
+Lyxor Core GILTS;https://www.boursorama.com/bourse/trackers/cours/1rTGILS/
+AMUNDI EURO HY D;https://www.boursorama.com/bourse/trackers/cours/1rTAHYD/
+ETFS PRECIOUS MET.;https://www.boursorama.com/bourse/produits-de-bourse/cours/1rPAIGPP
+AMUNDI ETF SHRT IG;https://www.boursorama.com/bourse/trackers/cours/1rTSB0/
+AMUNDI ETF GOVT EM;https://www.boursorama.com/bourse/trackers/cours/1rTAGEB/
+LYXOR BOFA H YIELD;https://www.boursorama.com/bourse/trackers/cours/1rTYIEL/
+ETFS WHEAT;https://www.boursorama.com/bourse/produits-de-bourse/cours/1rPWEATP
+LYXOR BND SHORT X1;https://www.boursorama.com/bourse/trackers/cours/1rTBUNS/
+LYXOR LIQU CORP LD;https://www.boursorama.com/bourse/trackers/cours/1rTCOUK/
+AMUNDI HI YIELD EU;https://www.boursorama.com/bourse/trackers/cours/1rTAHYE/
+OSSIAM ISTOXX EUMV;https://www.boursorama.com/bourse/trackers/cours/1rTEUMV/
+AMUNDI ETF SHT US7;https://www.boursorama.com/bourse/trackers/cours/1rTSU7/
+AMUNDI ETF EU HEAL;https://www.boursorama.com/bourse/trackers/cours/1rTCH5/
+LYXOR 10Y INFBRKEV;https://www.boursorama.com/bourse/trackers/cours/1rTINFU/
+LYXOR ETF SX6 UTIL;https://www.boursorama.com/bourse/trackers/cours/1rTUTI/
+AMUNDI ETF SHT1015;https://www.boursorama.com/bourse/trackers/cours/1rTS10/
+AMUNDI ETF EU UTIL;https://www.boursorama.com/bourse/trackers/cours/1rTCU5/
+LYXOR ETF THAILAND;https://www.boursorama.com/bourse/trackers/cours/1rTTHA/
+LYXOR 10Y US SHORT;https://www.boursorama.com/bourse/trackers/cours/1rTUS1S/
+LYXOR SMALL CAP;https://www.boursorama.com/bourse/trackers/cours/1rTMMS/
+IVZ SP VEQTOR ETF;https://www.boursorama.com/bourse/trackers/cours/1rTSPVX/
+LYXOR ETF MSC WHC;https://www.boursorama.com/bourse/trackers/cours/1rTHLTW/
+MULTI SCIENT BETA;https://www.boursorama.com/bourse/trackers/cours/1rTMFLS/
+BNPP NMX30 ETF;https://www.boursorama.com/bourse/trackers/cours/1rTENG/
+LYXOR ETF SX6 HLTC;https://www.boursorama.com/bourse/trackers/cours/1rTHLT/
+LYXOR W WATER PEA;https://www.boursorama.com/bourse/trackers/cours/1rTAWAT/
+BNPP Low Vol EU;https://www.boursorama.com/bourse/trackers/cours/1rTEVOE/
+LYXOR ETF T B 10Y;https://www.boursorama.com/bourse/trackers/cours/1rTDSUS/
+LYXOR ETF EASTERN;https://www.boursorama.com/bourse/trackers/cours/1rTCEC/
+AMUNDI ETF EU STAP;https://www.boursorama.com/bourse/trackers/cours/1rTCS5/
+LYXOR FTSE 100 MH;https://www.boursorama.com/bourse/trackers/cours/1rT100H/
+SPDR MSCI COM;https://www.boursorama.com/bourse/trackers/cours/1rTSTT/
+AMUNDI ETF DAX DR;https://www.boursorama.com/bourse/trackers/cours/1rTCG1/
+AMUNDI ETF EE XR-B;https://www.boursorama.com/bourse/trackers/cours/1rTCE9U/
+LYXOR ETF PEAPME;https://www.boursorama.com/bourse/trackers/cours/1rTPEAP/
+LYXOR EMU MIN VAR;https://www.boursorama.com/bourse/trackers/cours/1rTMVMU/
+AMUNDI EUR MIN VOL;https://www.boursorama.com/bourse/trackers/cours/1rTMIVO/
+OSSIAM ETF CAPE EU;https://www.boursorama.com/bourse/trackers/cours/1rTCAPE/
+SPDR MSCI CO.ST;https://www.boursorama.com/bourse/trackers/cours/1rTSTS/
+MULTI LYXOR WIG 20;https://www.boursorama.com/bourse/trackers/cours/1rTWIG/
+AMUNDI ETF MSCI NL;https://www.boursorama.com/bourse/trackers/cours/1rTCH1/
+AMUNDI ETF EAST EU;https://www.boursorama.com/bourse/trackers/cours/1rTCE9/
+LYXOR STXX EU SDIV;https://www.boursorama.com/bourse/trackers/cours/1rTSEL/
+LYXOR ETF SX6 TECH;https://www.boursorama.com/bourse/trackers/cours/1rTTNO/
+HSBC MSCI TURKEY;https://www.boursorama.com/bourse/trackers/cours/1rTHTR/
+LYXOR ETF SX6 TELE;https://www.boursorama.com/bourse/trackers/cours/1rTTEL/
+AMUNDI EPRA DR;https://www.boursorama.com/bourse/trackers/cours/1rTEPRA/
+AMUNDI MSCI EU SRI;https://www.boursorama.com/bourse/trackers/cours/1rTEUSRI/
+BNPP EASYQUALITYD;https://www.boursorama.com/bourse/trackers/cours/1rTQUED/
+LYXOR ETF SX6 RETA;https://www.boursorama.com/bourse/trackers/cours/1rTRTA/
+BNPP FTSE EUR ETFD;https://www.boursorama.com/bourse/trackers/cours/1rTEEE/
+AMUNDI ETF MS SWI;https://www.boursorama.com/bourse/trackers/cours/1rTCSW/
+LYXOR EP NA US;https://www.boursorama.com/bourse/trackers/cours/1rTMUA/
+LYXOR USA INFRA;https://www.boursorama.com/bourse/trackers/cours/1rTBUIL/
+AMUNDI ETF MS EMU;https://www.boursorama.com/bourse/trackers/cours/1rTCMU/
+LYXOR ETF MSC WIND;https://www.boursorama.com/bourse/trackers/cours/1rTINDW/
+LYXOR ETF SX6 HOUS;https://www.boursorama.com/bourse/trackers/cours/1rTPHG/
+BNPP Low Vol US;https://www.boursorama.com/bourse/trackers/cours/1rTEVOU/
+AMUNDI SP500 D;https://www.boursorama.com/bourse/trackers/cours/1rT500D/
+SPDR MSCI HLT;https://www.boursorama.com/bourse/trackers/cours/1rTSTW/
+OSSIAM US MINVAR U;https://www.boursorama.com/bourse/trackers/cours/1rTMVUS/
+AMUNDI WLD LOW C U;https://www.boursorama.com/bourse/trackers/cours/1rTLWCU/
+ETFS ALL COMMODIT.;https://www.boursorama.com/bourse/produits-de-bourse/cours/1rPAIGCP
+LYXOR EASTERN  PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPCEC/
+SPDR EU SM.CAP;https://www.boursorama.com/bourse/trackers/cours/1rTSMC/
+BNPP FTSE EUR ETFC;https://www.boursorama.com/bourse/trackers/cours/1rTEEA/
+LYXOR ETF SX6 FOOD;https://www.boursorama.com/bourse/trackers/cours/1rTFOO/
+AMUNDI ETF EU X SW;https://www.boursorama.com/bourse/trackers/cours/1rTCS9/
+AMUNDI MSCI EUR DR;https://www.boursorama.com/bourse/trackers/cours/1rTCEU2/
+AMUNDI MSCI JAP E;https://www.boursorama.com/bourse/trackers/cours/1rTCJ1/
+AMUNDI SMART BETA;https://www.boursorama.com/bourse/trackers/cours/1rTSMRT/
+AMUNDI EUR SMT BET;https://www.boursorama.com/bourse/trackers/cours/1rTSMRE/
+ETFS AGRICULTURE;https://www.boursorama.com/bourse/produits-de-bourse/cours/1rPAIGAP
+ComStage CAC40;https://www.boursorama.com/bourse/trackers/cours/1rTZ40/
+LYXOR PEA SP5H EUR;https://www.boursorama.com/bourse/trackers/cours/1rTPSPH/
+BNPP Momentum EU;https://www.boursorama.com/bourse/trackers/cours/1rTEMOM/
+AMUNDI SMART USD;https://www.boursorama.com/bourse/trackers/cours/1rTSMRU/
+LYXOR RUSSIA PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPRUS/
+HSBC MSCI WORLD;https://www.boursorama.com/bourse/trackers/cours/1rTWRD/
+HSBC MSCI EUR ETF;https://www.boursorama.com/bourse/trackers/cours/1rTHEU/
+BNPP EASYLWVOLUS D;https://www.boursorama.com/bourse/trackers/cours/1rTVLUD/
+OSSIAM US MINVAR E;https://www.boursorama.com/bourse/trackers/cours/1rTSPMV/
+LYXOR ETF MSC WFIN;https://www.boursorama.com/bourse/trackers/cours/1rTFINW/
+LYXOR ETF CRB;https://www.boursorama.com/bourse/trackers/cours/1rTCRB/
+LYXOR ETF CAC MID;https://www.boursorama.com/bourse/trackers/cours/1rTCACM/
+BNPP EASY LWVOLEU;https://www.boursorama.com/bourse/trackers/cours/1rTVLED/
+AMUNDI ETF W X EMU;https://www.boursorama.com/bourse/trackers/cours/1rTCM9/
+AMUNDI US MIN VO;https://www.boursorama.com/bourse/trackers/cours/1rTMIVU/
+LYXOR ETF NEW ENER;https://www.boursorama.com/bourse/trackers/cours/1rTNRJ/
+LYXOR INDIA PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPINR/
+BNPP Stoxx 600CD;https://www.boursorama.com/bourse/trackers/cours/1rTETZD/
+AMUNDI EPRA EUROPE;https://www.boursorama.com/bourse/trackers/cours/1rTEPRE/
+BNPP EUROSTOXX50 C;https://www.boursorama.com/bourse/trackers/cours/1rTETDD/
+SPDR RUSSELL 2K;https://www.boursorama.com/bourse/trackers/cours/1rTR2US/
+BNPP KLD400 ETF;https://www.boursorama.com/bourse/trackers/cours/1rTEKLD/
+LYXOR ETF MSCI EUR;https://www.boursorama.com/bourse/trackers/cours/1rTMEU/
+AMUNDI RUSSEL 2000;https://www.boursorama.com/bourse/trackers/cours/1rTRS2U/
+AMUNDI ETF STOX600;https://www.boursorama.com/bourse/trackers/cours/1rTC6E/
+SPDR EUR DIV ARIST;https://www.boursorama.com/bourse/trackers/cours/1rTEUDV/
+LYXOR ETF INDIA;https://www.boursorama.com/bourse/trackers/cours/1rTINR/
+AMUNDI ETF EU X EM;https://www.boursorama.com/bourse/trackers/cours/1rTCU9/
+AMUNDI US SMART BE;https://www.boursorama.com/bourse/trackers/cours/1rTSMTU/
+AMUNDI MSCI EUROPE;https://www.boursorama.com/bourse/trackers/cours/1rTCEU/
+AMUNDI ETF MS IND;https://www.boursorama.com/bourse/trackers/cours/1rTCI2/
+OSSIAM EURP EQUI W;https://www.boursorama.com/bourse/trackers/cours/1rTS6EW/
+AMUNDI ETF EUR TEL;https://www.boursorama.com/bourse/trackers/cours/1rTCT5/
+LYXOR ETF BUND DDS;https://www.boursorama.com/bourse/trackers/cours/1rTDSB/
+LYXOR ETF SX6 OIL;https://www.boursorama.com/bourse/trackers/cours/1rTOIL/
+LYXOR WORLD MINVAR;https://www.boursorama.com/bourse/trackers/cours/1rTMVAW/
+LYXOR ETF SGQE;https://www.boursorama.com/bourse/trackers/cours/1rTSGQE/
+AMUNDI EUR BUYBACK;https://www.boursorama.com/bourse/trackers/cours/1rTBBEU/
+AMUNDI ETF EUR MID;https://www.boursorama.com/bourse/trackers/cours/1rTCEM/
+AMUNDI STOXX GL AI;https://www.boursorama.com/bourse/trackers/cours/1rTGOAI/
+IVZ SP500 HDLV;https://www.boursorama.com/bourse/trackers/cours/1rTHDLV/
+AMUNDI ETF EMU HDV;https://www.boursorama.com/bourse/trackers/cours/1rTCD8/
+AMUNDI S&P BBck US;https://www.boursorama.com/bourse/trackers/cours/1rTBYBU/
+LYXOR GENDER EQUAL;https://www.boursorama.com/bourse/trackers/cours/1rTELLE/
+AMUNDI MSCI EURMOM;https://www.boursorama.com/bourse/trackers/cours/1rTMCEU/
+BNPP NorthAm ETF;https://www.boursorama.com/bourse/trackers/cours/1rTENAM/
+LYXOR MSCI BRAZIL;https://www.boursorama.com/bourse/trackers/cours/1rTRIO/
+LYXOR FTSE MINV EM;https://www.boursorama.com/bourse/trackers/cours/1rTMVAM/
+AMUNDI ETF EU DISC;https://www.boursorama.com/bourse/trackers/cours/1rTCD6/
+AMUNDI ETF INDIA-B;https://www.boursorama.com/bourse/trackers/cours/1rTCI2U/
+LYXOR ETF DJIA;https://www.boursorama.com/bourse/trackers/cours/1rTDJE/
+OSSIAM WD MINVAR E;https://www.boursorama.com/bourse/trackers/cours/1rTWOMV/
+AMUNDI MSCI US SRI;https://www.boursorama.com/bourse/trackers/cours/1rTUSRI/
+AMUNDI EUROPE HD D;https://www.boursorama.com/bourse/trackers/cours/1rTCD9D/
+LYXOR ETF SX6 FINS;https://www.boursorama.com/bourse/trackers/cours/1rTFIN/
+LYXOR ETF MSCI WDH;https://www.boursorama.com/bourse/trackers/cours/1rTWLDH/
+BNPP MOMENTUMD;https://www.boursorama.com/bourse/trackers/cours/1rTMOED/
+LYXOR ETF MSCI WSM;https://www.boursorama.com/bourse/trackers/cours/1rTUTLW/
+IVZ SP500 QVM;https://www.boursorama.com/bourse/trackers/cours/1rTPQVM/
+BNPP Stoxx Hlth;https://www.boursorama.com/bourse/trackers/cours/1rTSYH/
+SPDR MSCI TECHNO;https://www.boursorama.com/bourse/trackers/cours/1rTSTK/
+BNPP Small C ETF;https://www.boursorama.com/bourse/trackers/cours/1rTEESM/
+HSBC MSCI USA ETF;https://www.boursorama.com/bourse/trackers/cours/1rTMUS/
+LYXOR EMU VALUE;https://www.boursorama.com/bourse/trackers/cours/1rTVAL/
+LYXOR ETF RUS 2MIL;https://www.boursorama.com/bourse/trackers/cours/1rTRU2K/
+AMUNDI ETF MIB;https://www.boursorama.com/bourse/trackers/cours/1rTFMI/
+BNPP EASY EQDEUETF;https://www.boursorama.com/bourse/trackers/cours/1rTEDEU/
+AMUNDI RUSSEL 2K;https://www.boursorama.com/bourse/trackers/cours/1rTRS2K/
+LYXOR EUROPE INFRA;https://www.boursorama.com/bourse/trackers/cours/1rTMAKE/
+LYXOR USA MIN VAR;https://www.boursorama.com/bourse/trackers/cours/1rTMVAU/
+AMUNDI NOR AM DR;https://www.boursorama.com/bourse/trackers/cours/1rTNRAM/
+AMUNDI ES50 HUSD;https://www.boursorama.com/bourse/trackers/cours/1rTC5HU/
+LYXOR ETF DAX;https://www.boursorama.com/bourse/trackers/cours/1rTDAX/
+BNPP World ETF;https://www.boursorama.com/bourse/trackers/cours/1rTEWRD/
+LYXOR MSCI USA PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPUSA/
+LYXOR ETF MSCI WOR;https://www.boursorama.com/bourse/trackers/cours/1rTWLD/
+SPDR MSCI UTIL;https://www.boursorama.com/bourse/trackers/cours/1rTSTU/
+AMUNDI ETF MS SPA;https://www.boursorama.com/bourse/trackers/cours/1rTCS1/
+AMUNDI MS EUROPE D;https://www.boursorama.com/bourse/trackers/cours/1rTCEUD/
+LYXOR ETF USAC;https://www.boursorama.com/bourse/trackers/cours/1rTUSAC/
+LYXOR SP500 PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPSP5/
+AMUNDI ETF EU INDU;https://www.boursorama.com/bourse/trackers/cours/1rTCIN/
+LYXOR ETF MSC WMAT;https://www.boursorama.com/bourse/trackers/cours/1rTMATW/
+LYXOR EMU GROWTH;https://www.boursorama.com/bourse/trackers/cours/1rTGWT/
+AMUNDI ETF EU GROW;https://www.boursorama.com/bourse/trackers/cours/1rTCG9/
+AMUNDI EMU HD D;https://www.boursorama.com/bourse/trackers/cours/1rTCD8D/
+LYXOR MSCI WOR PEA;https://www.boursorama.com/bourse/trackers/cours/1rTEWLD/
+LYXOR ETF SP500;https://www.boursorama.com/bourse/trackers/cours/1rTSP5/
+AMUNDI GLBAL INFRA;https://www.boursorama.com/bourse/trackers/cours/1rTGINF/
+MULTI L MSCI A CTY;https://www.boursorama.com/bourse/trackers/cours/1rTACWI/
+BNPP SP500 EUR C;https://www.boursorama.com/bourse/trackers/cours/1rTESE/
+LYXOR IBOVESPA PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPRIO/
+SPDR S&P 500;https://www.boursorama.com/bourse/trackers/cours/1rTSPY5/
+SPDR EURO LV;https://www.boursorama.com/bourse/trackers/cours/1rTELOW/
+BNPP EASY KLDUSETF;https://www.boursorama.com/bourse/trackers/cours/1rTEKUS/
+AMUNDI ETF SP 500;https://www.boursorama.com/bourse/trackers/cours/1rT500/
+SPDR MSCI CO.DI;https://www.boursorama.com/bourse/trackers/cours/1rTSTR/
+AMUNDI SP500 H EUR;https://www.boursorama.com/bourse/trackers/cours/1rT500H/
+AMUNDI SP 500 DR;https://www.boursorama.com/bourse/trackers/cours/1rTS500/
+AMUNDI ETF E SM CP;https://www.boursorama.com/bourse/trackers/cours/1rTESM/
+Lyxor Core EMU;https://www.boursorama.com/bourse/trackers/cours/1rTMFE/
+IVZ EUR STOXX HDLV;https://www.boursorama.com/bourse/trackers/cours/1rTEUHD/
+AMUNDI ETF EU X UK;https://www.boursorama.com/bourse/trackers/cours/1rTAEXK/
+LYXOR NEW ENER PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPNRJ/
+LYXOR ETF RUSSIA;https://www.boursorama.com/bourse/trackers/cours/1rTRUS/
+IVZ DYNAMIC US;https://www.boursorama.com/bourse/trackers/cours/1rTPWC/
+IVZ FTSE RAFI E MS;https://www.boursorama.com/bourse/trackers/cours/1rTPWD/
+HSBC FTSE 100 ETF;https://www.boursorama.com/bourse/trackers/cours/1rTUKX/
+LYXOR ETF SX6 T&L;https://www.boursorama.com/bourse/trackers/cours/1rTTRV/
+BNPP Stoxx Util;https://www.boursorama.com/bourse/trackers/cours/1rTSYU/
+BNPP Value EU;https://www.boursorama.com/bourse/trackers/cours/1rTEVAE/
+IQ EUROPE SRI;https://www.boursorama.com/bourse/trackers/cours/1rTIQEE/
+SPDR MSCI INDUST;https://www.boursorama.com/bourse/trackers/cours/1rTSTQ/
+AMUNDI ETF CAC 40;https://www.boursorama.com/bourse/trackers/cours/1rTC40/
+SPDR MSCI EUROPE;https://www.boursorama.com/bourse/trackers/cours/1rTERO/
+AMUNDI TOPIX EUR;https://www.boursorama.com/bourse/trackers/cours/1rTTPXE/
+AMUNDI ETF SP500;https://www.boursorama.com/bourse/trackers/cours/1rT500U/
+LYXOR ETF MSCI USA;https://www.boursorama.com/bourse/trackers/cours/1rTUSA/
+ETFS COPPER;https://www.boursorama.com/bourse/produits-de-bourse/cours/1rPCOPAP
+AMUNDI ES50 USD;https://www.boursorama.com/bourse/trackers/cours/1rTC50U/
+OSSIAM ETF CAPE US;https://www.boursorama.com/bourse/trackers/cours/1rTCAPU/
+LYXOR ETF AUSTRALI;https://www.boursorama.com/bourse/trackers/cours/1rTAU2/
+SPDR MSCI FINANC;https://www.boursorama.com/bourse/trackers/cours/1rTSTZ/
+LYXOR ETF MSC WCS;https://www.boursorama.com/bourse/trackers/cours/1rTCOSW/
+LYXOR ETF DJ GT50;https://www.boursorama.com/bourse/trackers/cours/1rTMGT/
+LYXOR ETF SX6 MED;https://www.boursorama.com/bourse/trackers/cours/1rTMDA/
+BNPP SP500 USD C;https://www.boursorama.com/bourse/trackers/cours/1rTESD/
+LYXOR ETF SX6 INS;https://www.boursorama.com/bourse/trackers/cours/1rTINS/
+AMUNDI S&P BBck EU;https://www.boursorama.com/bourse/trackers/cours/1rTBYBE/
+AMUNDI MSCI EURQUA;https://www.boursorama.com/bourse/trackers/cours/1rTQCEU/
+LYXOR ETF CAC 40;https://www.boursorama.com/bourse/trackers/cours/1rTCAC/
+BNPP SP500 USD CD;https://www.boursorama.com/bourse/trackers/cours/1rTESDD/
+LYXOR ETF SP5 DH;https://www.boursorama.com/bourse/trackers/cours/1rTSP5H/
+LYXOR ETF MSCI WTS;https://www.boursorama.com/bourse/trackers/cours/1rTTELW/
+LYXOR CORE WORLD;https://www.boursorama.com/bourse/trackers/cours/1rTLCWD/
+HSBC MSCI CANADA;https://www.boursorama.com/bourse/trackers/cours/1rTHCAN/
+AMUNDI ETF W EX EU;https://www.boursorama.com/bourse/trackers/cours/1rTCE8/
+BNPP FTSE Dv ETF;https://www.boursorama.com/bourse/trackers/cours/1rTEEP/
+LYXOR ETF TOPIX;https://www.boursorama.com/bourse/trackers/cours/1rTJPN/
+SPDR S&P 400 MID;https://www.boursorama.com/bourse/trackers/cours/1rTSPY4/
+AMUNDI WLD LOW C E;https://www.boursorama.com/bourse/trackers/cours/1rTLWCR/
+AMUNDI ETF MS NOR;https://www.boursorama.com/bourse/trackers/cours/1rTCN1/
+SPDR MSCI ENERGY;https://www.boursorama.com/bourse/trackers/cours/1rTSTN/
+AMUNDI ETF WORLD-B;https://www.boursorama.com/bourse/trackers/cours/1rTCW8U/
+AMUNDI FTSE100 EUR;https://www.boursorama.com/bourse/trackers/cours/1rTC1U/
+BNPP EASY EQDUSETF;https://www.boursorama.com/bourse/trackers/cours/1rTDIUS/
+Ly Core Stoxx300D;https://www.boursorama.com/bourse/trackers/cours/1rTMFDD/
+LYXOR ETF ESTOXX50;https://www.boursorama.com/bourse/trackers/cours/1rTMSE/
+AMUNDI ETF NDX-B;https://www.boursorama.com/bourse/trackers/cours/1rTANXU/
+IVZ FTSE RAFI US;https://www.boursorama.com/bourse/trackers/cours/1rTPFT/
+LYXOR JPX 400;https://www.boursorama.com/bourse/trackers/cours/1rTJPX4/
+HSBC MSCIJAPAN ETF;https://www.boursorama.com/bourse/trackers/cours/1rTMJP/
+LYXOR PRIVEX;https://www.boursorama.com/bourse/trackers/cours/1rTPVX/
+AMUNDI ETF MS FRA;https://www.boursorama.com/bourse/trackers/cours/1rTCF1/
+AMUNDI ETF STOXX50;https://www.boursorama.com/bourse/trackers/cours/1rTC5E/
+HSBC SP 500 ETF;https://www.boursorama.com/bourse/trackers/cours/1rTHHH/
+SPDR ACWI;https://www.boursorama.com/bourse/trackers/cours/1rTACWE/
+AMUNDI ETF EUR MAT;https://www.boursorama.com/bourse/trackers/cours/1rTC8M/
+LYXOR ETF SGQI EUR;https://www.boursorama.com/bourse/trackers/cours/1rTSGQI/
+LYXOR DJIA PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPDJE/
+AMUNDI MSCI BRAZIL;https://www.boursorama.com/bourse/trackers/cours/1rTBRZ/
+AMUNDI MSCI WD SRI;https://www.boursorama.com/bourse/trackers/cours/1rTWSRI/
+LYXOR ETF CANADA;https://www.boursorama.com/bourse/trackers/cours/1rTTSX/
+SPDR ACWI IMI;https://www.boursorama.com/bourse/trackers/cours/1rTIMIE/
+HSBC MSCI PACxJAP;https://www.boursorama.com/bourse/trackers/cours/1rTMXJ/
+LYXOR EPRA G DEV;https://www.boursorama.com/bourse/trackers/cours/1rTMWO/
+SPDR MSCI EMU;https://www.boursorama.com/bourse/trackers/cours/1rTEMUE/
+BNPP Stoxx Techn;https://www.boursorama.com/bourse/trackers/cours/1rTSYQ/
+AMUNDI PAC X JAP E;https://www.boursorama.com/bourse/trackers/cours/1rTCP9/
+ETF CNAA;https://www.boursorama.com/bourse/trackers/cours/1rTCNAA/
+BNPP EASY MWECWETF;https://www.boursorama.com/bourse/trackers/cours/1rTEMWE/
+AMUNDIETF CAC40(D);https://www.boursorama.com/bourse/trackers/cours/1rTC4D/
+BNPP EASY LOWCARB;https://www.boursorama.com/bourse/trackers/cours/1rTECN/
+AMUNDI MSCIWL FNLU;https://www.boursorama.com/bourse/trackers/cours/1rTCWFU/
+BNPP SP500 EURH C;https://www.boursorama.com/bourse/trackers/cours/1rTESEH/
+AMUNDI ETF MSCI UK;https://www.boursorama.com/bourse/trackers/cours/1rTCU1/
+AMUNDI PAC X JAP U;https://www.boursorama.com/bourse/trackers/cours/1rTCP9U/
+LYXOR ETF MALAYSIA;https://www.boursorama.com/bourse/trackers/cours/1rTMAL/
+BNPP Pac xJP ETF;https://www.boursorama.com/bourse/trackers/cours/1rTEPEJ/
+BNPP EASY EUSRIETF;https://www.boursorama.com/bourse/trackers/cours/1rTSRIE/
+BNPP CAC 40;https://www.boursorama.com/bourse/trackers/cours/1rTE40/
+LYXOR ETF MSC WCD;https://www.boursorama.com/bourse/trackers/cours/1rTCODW/
+AMUNDI ETF MSCI WR;https://www.boursorama.com/bourse/trackers/cours/1rTCW8/
+AMUNDI ETF MSCI US;https://www.boursorama.com/bourse/trackers/cours/1rTCU2/
+LYXOR ETF SX6 CHEM;https://www.boursorama.com/bourse/trackers/cours/1rTCHM/
+LYXOR FTSE EU MVR;https://www.boursorama.com/bourse/trackers/cours/1rTMVAE/
+LYXOR FEN DVEU PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPMEH/
+AMUNDI MSCIWL ENYU;https://www.boursorama.com/bourse/trackers/cours/1rTCWEU/
+SPDR MSCI MAT;https://www.boursorama.com/bourse/trackers/cours/1rTSTP/
+BNPP EURSTOX50 C/D;https://www.boursorama.com/bourse/trackers/cours/1rTETBB/
+LYXOR SP500 C;https://www.boursorama.com/bourse/trackers/cours/1rTSP5C/
+LYXOR ETF W WATER;https://www.boursorama.com/bourse/trackers/cours/1rTWAT/
+AMUNDI ETF WLD NRJ;https://www.boursorama.com/bourse/trackers/cours/1rTCWE/
+BNPP EASY EQVUSETF;https://www.boursorama.com/bourse/trackers/cours/1rTEVUS/
+AMUNDI ETF WLD FIN;https://www.boursorama.com/bourse/trackers/cours/1rTCWF/
+MULTI LY EU STXX B;https://www.boursorama.com/bourse/trackers/cours/1rTBNKE/
+AMUNDI ETF MS ITA;https://www.boursorama.com/bourse/trackers/cours/1rTCI1/
+AMUNDI ETF FTS PIR;https://www.boursorama.com/bourse/trackers/cours/1rTITALI/
+Lyxor Core Stoxx50;https://www.boursorama.com/bourse/trackers/cours/1rTMSED/
+IVZ FTSE EM HDLV;https://www.boursorama.com/bourse/trackers/cours/1rTEMHD/
+BNPP EU ETF;https://www.boursorama.com/bourse/trackers/cours/1rTEEUE/
+AMUNDI ETF MS E EN;https://www.boursorama.com/bourse/trackers/cours/1rTANRJ/
+AMUNDI ETF USA-B;https://www.boursorama.com/bourse/trackers/cours/1rTCU2U/
+BNPP Stoxx 600C;https://www.boursorama.com/bourse/trackers/cours/1rTETZ/
+AMUNDI ETF EM LA U;https://www.boursorama.com/bourse/trackers/cours/1rTALAU/
+AMUNDI ETF EU HDVD;https://www.boursorama.com/bourse/trackers/cours/1rTCD9/
+IQ JAPAN SRI;https://www.boursorama.com/bourse/trackers/cours/1rTIQJP/
+OSSIAM ETF JPMV C;https://www.boursorama.com/bourse/trackers/cours/1rTJPMV/
+LYXOR SG JAPAN QI;https://www.boursorama.com/bourse/trackers/cours/1rTSGQJ/
+BNPP EMU ETF;https://www.boursorama.com/bourse/trackers/cours/1rTEEMU/
+AMUNDI ETF EU BANK;https://www.boursorama.com/bourse/trackers/cours/1rTCB5/
+LYXOR ETF LATAM;https://www.boursorama.com/bourse/trackers/cours/1rTLTM/
+IVZ FTSE RAFI EURO;https://www.boursorama.com/bourse/trackers/cours/1rTPEF/
+AMUNDI MSCI WLD DR;https://www.boursorama.com/bourse/trackers/cours/1rTMWRD/
+LYXOR ETF MSC WTEC;https://www.boursorama.com/bourse/trackers/cours/1rTTNOW/
+LYXOR ETF MSCI EMW;https://www.boursorama.com/bourse/trackers/cours/1rTLEMO/
+AMUNDI ETF ES50 C;https://www.boursorama.com/bourse/trackers/cours/1rTC50/
+LYXOR TURKEY PEA;https://www.boursorama.com/bourse/trackers/cours/1rTETUR/
+HSBC MSCI SA Cap;https://www.boursorama.com/bourse/trackers/cours/1rTHZAR/
+LYXOR MSCI PAC X J;https://www.boursorama.com/bourse/trackers/cours/1rTPAXJ/
+LYXOR TOPIX PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPJPN/
+ETFS BRENT OIL SEC;https://www.boursorama.com/bourse/produits-de-bourse/cours/1rPOILBP
+BNPP Quality EU;https://www.boursorama.com/bourse/trackers/cours/1rTEQUA/
+LYXOR ETF LTM PEA;https://www.boursorama.com/bourse/trackers/cours/1rTLTMP/
+AMUNDI JPXNK 400;https://www.boursorama.com/bourse/trackers/cours/1rTJPNK/
+LYXOR JPX 400 DH;https://www.boursorama.com/bourse/trackers/cours/1rTJPXH/
+BNPP Stoxx Oil&G;https://www.boursorama.com/bourse/trackers/cours/1rTSYE/
+Lyx Core Stoxx300;https://www.boursorama.com/bourse/trackers/cours/1rTMFED/
+LYXOR ETF SX6 BANK;https://www.boursorama.com/bourse/trackers/cours/1rTBNK/
+LYXOR ETF MSC WNRJ;https://www.boursorama.com/bourse/trackers/cours/1rTNRGW/
+Lyx Core Stoxx600;https://www.boursorama.com/bourse/trackers/cours/1rTMEUD/
+LYXOR NSDQ 100 PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPUST/
+BNPP JP ETF;https://www.boursorama.com/bourse/trackers/cours/1rTEJAP/
+AMUNDI ETF EM LATA;https://www.boursorama.com/bourse/trackers/cours/1rTALAT/
+LYXOR ETF MSCI IND;https://www.boursorama.com/bourse/trackers/cours/1rTINDO/
+AMUNDI MSCI EM DR;https://www.boursorama.com/bourse/trackers/cours/1rTAEME/
+LYXOR ETF SX6 G&S;https://www.boursorama.com/bourse/trackers/cours/1rTIND/
+AMUNDI ETF NDX 100;https://www.boursorama.com/bourse/trackers/cours/1rTANX/
+HSBC MSCI EM LATAM;https://www.boursorama.com/bourse/trackers/cours/1rTHMLA/
+OSSIAM EM MINVAR E;https://www.boursorama.com/bourse/trackers/cours/1rTEMMV/
+ETFS WTI OIL SEC;https://www.boursorama.com/bourse/produits-de-bourse/cours/1rPOILWP
+AMUNDI ETF MSCI EM;https://www.boursorama.com/bourse/trackers/cours/1rTAEEM/
+ETFS CRUDE OIL;https://www.boursorama.com/bourse/produits-de-bourse/cours/1rPCRUDP
+HSBC EUROSTX50 ETF;https://www.boursorama.com/bourse/trackers/cours/1rT50E/
+AMUNDI ETF ES50 D;https://www.boursorama.com/bourse/trackers/cours/1rTCD5/
+AMUNDI JPNK GBP HD;https://www.boursorama.com/bourse/trackers/cours/1rTJPHG/
+BNPP EASY EMSRIETF;https://www.boursorama.com/bourse/trackers/cours/1rTEISR/
+LYXOR ETF SX6 MAT;https://www.boursorama.com/bourse/trackers/cours/1rTCST/
+LYXOR ASIP EXJ PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPAEJ/
+AMUNDI JPNK EUR HD;https://www.boursorama.com/bourse/trackers/cours/1rTJPHE/
+LYXOR MSCI SOUTH A;https://www.boursorama.com/bourse/trackers/cours/1rTAFS/
+LYXOR ETF NSDQ 100;https://www.boursorama.com/bourse/trackers/cours/1rTUST/
+BNPP Stoxx Bank;https://www.boursorama.com/bourse/trackers/cours/1rTSYB/
+IVZ FTSE RAFI EM;https://www.boursorama.com/bourse/trackers/cours/1rTPEH/
+IVZ EQQQ;https://www.boursorama.com/bourse/trackers/cours/1rTQQQ/
+LYXOR PAN AFRICA;https://www.boursorama.com/bourse/trackers/cours/1rTPAF/
+LYXOR MSCI EM PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPLEM/
+LYXOR ETF TOPIX DH;https://www.boursorama.com/bourse/trackers/cours/1rTJPNH/
+LYXOR ETF SX50 DL;https://www.boursorama.com/bourse/trackers/cours/1rTLVE/
+AMUNDI JPNK USD HD;https://www.boursorama.com/bourse/trackers/cours/1rTJPHU/
+LYXOR ETF FTSE MIB;https://www.boursorama.com/bourse/trackers/cours/1rTMIB/
+AMUNDI GLOBAL LUX;https://www.boursorama.com/bourse/trackers/cours/1rTGLUX/
+AMUNDI ETF MS EM B;https://www.boursorama.com/bourse/trackers/cours/1rTAUEM/
+AMUNDI ETF EM ASIA;https://www.boursorama.com/bourse/trackers/cours/1rTAASI/
+LYXOR ETF LEVDAX;https://www.boursorama.com/bourse/trackers/cours/1rTLVD/
+AMUNDI G LUX USD;https://www.boursorama.com/bourse/trackers/cours/1rTLUXU/
+AMUNDI ETF LEV USA;https://www.boursorama.com/bourse/trackers/cours/1rTCL2/
+ETF SGVB;https://www.boursorama.com/bourse/trackers/cours/1rTSGVB/
+LYXOR ETF ASIP EXJ;https://www.boursorama.com/bourse/trackers/cours/1rTAEJ/
+LYXOR ETF SX6 AUTO;https://www.boursorama.com/bourse/trackers/cours/1rTAUT/
+LYXOR ETF MSCI EM;https://www.boursorama.com/bourse/trackers/cours/1rTLEM/
+LYXOR ETF KOREA;https://www.boursorama.com/bourse/trackers/cours/1rTKRW/
+BNPP EmMkSRI ETF;https://www.boursorama.com/bourse/trackers/cours/1rTEMSR/
+LYXOR MSCI TURKEY;https://www.boursorama.com/bourse/trackers/cours/1rTTUR/
+AMUNDI TOPIX JPY;https://www.boursorama.com/bourse/trackers/cours/1rTTPXY/
+LYXOR HSCEI PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPASI/
+AMUNDI TOPIX HDG;https://www.boursorama.com/bourse/trackers/cours/1rTTPXH/
+LYXOR TOPIX DH PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPJPH/
+LYXOR HSI PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPHSI/
+LYXOR ETF HSCEI;https://www.boursorama.com/bourse/trackers/cours/1rTASI/
+SPDR EM Asia;https://www.boursorama.com/bourse/trackers/cours/1rTEMAE/
+AMUNDI NDXH EUR HD;https://www.boursorama.com/bourse/trackers/cours/1rTNDXH/
+LYXOR ETF MSCI ACA;https://www.boursorama.com/bourse/trackers/cours/1rTAPX/
+AMUNDI ETF MS CHN;https://www.boursorama.com/bourse/trackers/cours/1rTCC1/
+LYXOR SOUTH AF PEA;https://www.boursorama.com/bourse/trackers/cours/1rTPAFS/
+AMUNDI ETF CHINA-B;https://www.boursorama.com/bourse/trackers/cours/1rTCC1U/
+AMUNDI ETF EM AS U;https://www.boursorama.com/bourse/trackers/cours/1rTAASU/
+LYXOR ETF LEV CAC;https://www.boursorama.com/bourse/trackers/cours/1rTLVC/
+AMUNDI ETF LEV CAC;https://www.boursorama.com/bourse/trackers/cours/1rTCL4/
+SPDR Emerging;https://www.boursorama.com/bourse/trackers/cours/1rTEMRG/
+LYXOR ETF HSI;https://www.boursorama.com/bourse/trackers/cours/1rTHSI/
+AMUNDI ETF LEV E50;https://www.boursorama.com/bourse/trackers/cours/1rTC5L/
+ETFS NATURAL GAS;https://www.boursorama.com/bourse/produits-de-bourse/cours/1rPNGASP
+HSBC MSCI CHINA;https://www.boursorama.com/bourse/trackers/cours/1rTCNY/
+HSBC MSCI EM FE;https://www.boursorama.com/bourse/trackers/cours/1rTMEM/
+LYXOR ETF SX6 RESR;https://www.boursorama.com/bourse/trackers/cours/1rTBRE/
+BNPP EASY JPHETF;https://www.boursorama.com/bourse/trackers/cours/1rTEJAH/
+LYXOR ETF MSCI TAI;https://www.boursorama.com/bourse/trackers/cours/1rTTWN/
+LYXOR ETF NSDQ DL;https://www.boursorama.com/bourse/trackers/cours/1rTLQQ/
+MULTI L EMTS B 13Y;https://www.boursorama.com/bourse/trackers/cours/1rPMA13/
+LYXOR EPRA G DEV;https://www.boursorama.com/bourse/trackers/cours/1rPMWO/
+LYXOR LY DURA 25Y;https://www.boursorama.com/bourse/trackers/cours/1rPMTH/
+MULTI L MSCI A CTY;https://www.boursorama.com/bourse/trackers/cours/1rPACWI/
+MULTI L EMTS B 57Y;https://www.boursorama.com/bourse/trackers/cours/1rPMA57/
+MULTI L EMTS B 35Y;https://www.boursorama.com/bourse/trackers/cours/1rPMA35/

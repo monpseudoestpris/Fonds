@@ -1,0 +1,41 @@
+ENTHECA PÉRENNITÉ R;https://www.opcvm360.com/opcvm/fiche/entheca-perennite-r
+LA FRANÇAISE ALLOCATION T C;https://www.opcvm360.com/opcvm/fiche/la-francaise-allocation-t-c
+AIFIVE GLOBAL FUND EUR;https://www.opcvm360.com/opcvm/fiche/aifive-global-fund-eur
+LF CERENICIMO +;https://www.opcvm360.com/opcvm/fiche/lf-cerenicimo
+DWS BIOTECH;https://www.opcvm360.com/opcvm/fiche/dws-biotech
+CANDRIAM EQUITIES L CANDRIAM EQUITIES L - BIOTECHNOLOGY CEW;https://www.opcvm360.com/opcvm/fiche/candriam-equities-l-biotechnology-c-hedged
+ETFS NATURAL GAS;https://www.opcvm360.com/opcvm/fiche/etfs-natural-gas
+PICTET BIOTECH I EUR (C);https://www.opcvm360.com/opcvm/fiche/pictet-biotech-i-eur-c
+PICTET BIOTECH P EUR (C);https://www.opcvm360.com/opcvm/fiche/pictet-biotech-p-eur-c
+PICTET BIOTECH R EUR (C);https://www.opcvm360.com/opcvm/fiche/pictet-biotech-r-eur-c
+PICTET BIOTECH HI EUR (C);https://www.opcvm360.com/opcvm/fiche/pictet-biotech-hi-eur-c
+BELLEVUE FUNDS (LUX) BB BIOTECH I;https://www.opcvm360.com/opcvm/fiche/bb-biotech-i-3
+PICTET BIOTECH HP EUR (C);https://www.opcvm360.com/opcvm/fiche/pictet-biotech-hp-eur-c
+BELLEVUE FUNDS (LUX) BB BIOTECH B;https://www.opcvm360.com/opcvm/fiche/bb-biotech-b-2
+PICTET BIOTECH HR EUR (C);https://www.opcvm360.com/opcvm/fiche/pictet-biotech-hr-eur-c
+HSBC GLOBAL INVESTMENT FUNDS BRAZIL EQUITY A EUR;https://www.opcvm360.com/opcvm/fiche/hsbc-gif-brazil-equity-a-eur-c
+POLAR CAPITAL FUNDS PLC BIOTECHNOLOGY FUND S EUR INC;https://www.opcvm360.com/opcvm/fiche/polar-capital-funds-plc-biotechnology-s-eur-inc
+POLAR CAPITAL FUNDS PLC BIOTECHNOLOGY FUND I;https://www.opcvm360.com/opcvm/fiche/polar-capital-funds-plc-biotechnology-i-2
+POLAR CAPITAL FUNDS PLC BIOTECHNOLOGY FUND R;https://www.opcvm360.com/opcvm/fiche/polar-capital-funds-plc-biotechnology-r
+ALLIANZ BIOTECHNOLOGIE - A;https://www.opcvm360.com/opcvm/fiche/allianz-biotechnologie-a
+PIMCO FUNDS : GLOBAL INVESTORS SERIES PLC MLP & ENERGY INFRASTRUCTURE FUND E EUR DIST;https://www.opcvm360.com/opcvm/fiche/pimco-mlp-energy-infrastructure-fund-pimco-mlp-energy-infrastructure-fund-e-class-2
+LYXOR PEA BRESIL (MSCI BRAZIL) UCITS ETF CAPI;https://www.opcvm360.com/opcvm/fiche/lyxor-ucits-etf-pea-brazil
+LYXOR MSCI BRAZIL UCITS ETF ACC;https://www.opcvm360.com/opcvm/fiche/lyxor-etf-brazil-ibovespa-c-eur
+SCHRODER INTERNATIONAL SELECTION FUND GLOBAL ENERGY C EUR (C);https://www.opcvm360.com/opcvm/fiche/schroder-isf-global-energy-c-eur-c
+SCHRODER INTERNATIONAL SELECTION FUND GLOBAL ENERGY A EUR (C);https://www.opcvm360.com/opcvm/fiche/schroder-isf-global-energy-a-eur-c
+SCHRODER INTERNATIONAL SELECTION FUND GLOBAL ENERGY A EUR (D);https://www.opcvm360.com/opcvm/fiche/schroder-isf-global-energy-a-eur-d
+SCHRODER INTERNATIONAL SELECTION FUND GLOBAL ENERGY A1 EUR (C);https://www.opcvm360.com/opcvm/fiche/schroder-isf-global-energy-a1-eur-c
+PIMCO FUNDS : GLOBAL INVESTORS SERIES PLC MLP & ENERGY INFRASTRUCTURE FUND INST EUR CAP;https://www.opcvm360.com/opcvm/fiche/pimco-mlp-energy-infrastructure-fund-pimco-mlp-energy-infrastructure-fund-institutional-3
+PIMCO FUNDS : GLOBAL INVESTORS SERIES PLC MLP & ENERGY INFRASTRUCTURE FUND E EUR CAP;https://www.opcvm360.com/opcvm/fiche/pimco-mlp-energy-infrastructure-fund-pimco-mlp-energy-infrastructure-fund-e-class-1
+QUADRIGE FRANCE SMALLCAPS C;https://www.opcvm360.com/opcvm/fiche/quadrige
+GOLDMAN SACHS FUNDS GOLDMAN SACHS NORTH AMERICA ENERGY & ENERGY INFRASTRUCTURE EQUITY PORTFOLIO E ACC;https://www.opcvm360.com/opcvm/fiche/goldman-sachs-f-north-american-shale-rev-energy-infr-pf-e-acc
+PLACEURO PLACEURO - HARP ACTIONS (C);https://www.opcvm360.com/opcvm/fiche/placeuro-harp-actions-c
+BOSCARY UZES SELECTION;https://www.opcvm360.com/opcvm/fiche/boscary-uzes-selection
+BNY MELLON GLOBAL FUNDS PLC BNY MELLON BRAZIL EQUITY FUND C EUR;https://www.opcvm360.com/opcvm/fiche/bny-mellon-brazil-equity-fund-c-eur-c
+BNY MELLON GLOBAL FUNDS PLC BNY MELLON BRAZIL EQUITY FUND EUR (C);https://www.opcvm360.com/opcvm/fiche/bny-mellon-brazil-equity-fund-a-eur-c
+ARC ACTIONS BIOTECH A;https://www.opcvm360.com/opcvm/fiche/ccr-actions-biotech-a
+FRIEDLAND PME I;https://www.opcvm360.com/opcvm/fiche/friedland-pme-i
+FRIEDLAND PME P;https://www.opcvm360.com/opcvm/fiche/friedland-pme-p
+FRANKLIN TEMPLETON INVESTMENT FUNDS FRANKLIN NATURAL RESOURCES FUND I EUR;https://www.opcvm360.com/opcvm/fiche/ftif-franklin-natural-resources-fund-i-eur-c
+FRANKLIN TEMPLETON INVESTMENT FUNDS FRANKLIN NATURAL RESOURCES FUND N EUR;https://www.opcvm360.com/opcvm/fiche/ftif-franklin-natural-resources-fund-n-eur-c
+ARC ACTIONS BIOTECH B COUVERTE EU/US;https://www.opcvm360.com/opcvm/fiche/ccr-actions-biotech-b-couverte-eu-us

@@ -1,0 +1,41 @@
+DNCA INVEST ALPHA BONDS B CAP;https://www.opcvm360.com/opcvm/fiche/alpha-bonds-b-cap
+ALLIANZ GLOBAL INVESTORS FUND ALLIANZ EUROPE EQUITY GROWTH SELECT JPY);https://www.opcvm360.com/opcvm/fiche/allianz-gif-europe-equity-growth-select-jpy
+PICTET WATER I JPY;https://www.opcvm360.com/opcvm/fiche/pictet-water-i-jpy
+UBAM UBAM - ANGEL JAPAN SMALL CAP EQUITY IPC;https://www.opcvm360.com/opcvm/fiche/ubam-ifdc-japan-opportunities-equity-i-c
+UBAM UBAM - ANGEL JAPAN SMALL CAP EQUITY IPD;https://www.opcvm360.com/opcvm/fiche/ifdc-japan-opportunities-equity-ip-jpy-distribution
+JPMORGAN FUNDS JAPAN EQUITY FUND X JPY ACC;https://www.opcvm360.com/opcvm/fiche/jpmorgan-funds-japan-equity-fund-x-jpy-capitalisation
+UBAM UBAM - ANGEL JAPAN SMALL CAP EQUITY APC;https://www.opcvm360.com/opcvm/fiche/ubam-ifdc-japan-opportunities-equity-a-c
+JPMORGAN FUNDS JAPAN EQUITY FUND I JPY ACC;https://www.opcvm360.com/opcvm/fiche/jpmorgan-funds-japan-equity-fund-i-jpy-capitalisation
+JPMORGAN FUNDS JAPAN EQUITY FUND C JPY CAPITALISATION;https://www.opcvm360.com/opcvm/fiche/jpmorgan-funds-japan-equity-fund-c-jpy-capitalisation
+UBAM UBAM - ANGEL JAPAN SMALL CAP EQUITY RC;https://www.opcvm360.com/opcvm/fiche/ubam-ifdc-japan-opportunities-equity-r-c
+RUSSELL INVESTMENT COMPANY II PLC RUSSELL INVESTMENT WORLD EQUITY FUND TYA (C);https://www.opcvm360.com/opcvm/fiche/russell-investment-company-ii-world-equity-fund-tya-c
+JPMORGAN FUNDS JAPAN EQUITY FUND A JPY ACC;https://www.opcvm360.com/opcvm/fiche/jpmorgan-funds-jf-japan-equity-a-jpy-c
+JPMORGAN FUNDS JAPAN EQUITY FUND A JPY DISTRI;https://www.opcvm360.com/opcvm/fiche/jpmorgan-funds-japan-equity-fund-a-jpy-distribution
+LOMBARD ODIER FUNDS EUROPE RESPONSIBLE EQUITY ENHANCED (JPY) M ACC;https://www.opcvm360.com/opcvm/fiche/lombard-odier-funds-europe-equity-factor-enhanced-jpy-m-acc
+JPMORGAN FUNDS JAPAN EQUITY FUND D JPY ACC;https://www.opcvm360.com/opcvm/fiche/jpmorgan-funds-japan-equity-fund-d-jpy-capitalisation
+PICTET DIGITAL I JPY;https://www.opcvm360.com/opcvm/fiche/pictet-digital-communication-i-jpy
+UBS ETFS PLC - MSCI ACWI SF UCITS ETF UBS ETFS PLC – MSCI ACWI SF UCITS ETF (HEDGED TO JPY) A-ACC;https://www.opcvm360.com/opcvm/fiche/ubs-etfs-plc-msci-acwi-sf-ucits-etf-ubs-etfs-plc-msci-acwi-sf-ucits-etf-hedged-to-jpy-a-acc
+UBS (LUX) EQUITY FUND JAPAN (JPY) P JPY;https://www.opcvm360.com/opcvm/fiche/ubs-lux-equity-fund-japan-p-c
+COMGEST GROWTH PLC COMGEST GROWTH JAPAN I;https://www.opcvm360.com/opcvm/fiche/comgest-growth-plc-comgest-growth-japan-i
+ARAMUS (CH) JAPAN FUND B;https://www.opcvm360.com/opcvm/fiche/aramus-ch-japan-fund-b
+SCHRODER INTERNATIONAL SELECTION FUND SCHRODER ISF - MIDDLE EAST J JPY (C);https://www.opcvm360.com/opcvm/fiche/schroder-isf-middle-east-jpy-j-c
+JANUS HENDERSON HORIZON FUND JAPANESE SMALLER COMPANIES FUND Z2 JPY;https://www.opcvm360.com/opcvm/fiche/henderson-hf-japanese-smaller-companies-z2-jpy
+COMGEST GROWTH PLC COMGEST GROWTH JAPAN JPY ACC;https://www.opcvm360.com/opcvm/fiche/comgest-growth-japan-c
+ARAMUS (CH) JAPAN FUND A;https://www.opcvm360.com/opcvm/fiche/aramus-ch-japan-fund-a
+TIF - JAPAN FUND 2 NET JPY (C);https://www.opcvm360.com/opcvm/fiche/tif-japan-fund-institutional-net-jpy-c
+PRIVILEDGE SMAM JAPAN SMALL AND MID CAP I JPY CAPITALISATION;https://www.opcvm360.com/opcvm/fiche/smam-japan-small-and-mid-cap-i-jpy-capitalisation
+PRIVILEDGE SMAM JAPAN SMALL AND MID CAP M JPY CAPITALISATION;https://www.opcvm360.com/opcvm/fiche/smam-japan-small-and-mid-cap-m-jpy-capitalisation
+PRIVILEDGE SMAM JAPAN SMALL AND MID CAP M JPY DISTRIBUTION;https://www.opcvm360.com/opcvm/fiche/smam-japan-small-and-mid-cap-m-jpy-distribution
+TIF - JAPAN FUND 1 NET JPY (C);https://www.opcvm360.com/opcvm/fiche/tif-japan-fund-retail-net-jpy-c
+JANUS HENDERSON HORIZON FUND JAPANESE SMALLER COMPANIES FUND A2 JPY;https://www.opcvm360.com/opcvm/fiche/henderson-hf-japanese-smaller-companies-a2
+ABERDEEN GLOBAL JAPANESE SMALLER COMPANIES Z ACC JPY;https://www.opcvm360.com/opcvm/fiche/henderson-horizon-fund-japanese-smaller-companies-fund-z-2-capitalisation
+PICTET GLOBAL EMERGING DEBT HI JPY (C);https://www.opcvm360.com/opcvm/fiche/pictet-global-emerging-debt-hi-jpy-c
+LOMBARD ODIER FUNDS ALPHA JAPAN (JPY) I;https://www.opcvm360.com/opcvm/fiche/lo-funds-alpha-japan-i-a
+ABERDEEN GLOBAL JAPANESE SMALLER COMPANIES I ACC JPY;https://www.opcvm360.com/opcvm/fiche/aberdeen-global-japanese-smaller-companies-i2-c
+ABERDEEN GLOBAL JAPANESE SMALLER COMPANIES X ACC JPY;https://www.opcvm360.com/opcvm/fiche/aberdeen-global-japanese-smaller-companies-2-4
+PARVEST EQUITY JAPAN SMALL CAP X;https://www.opcvm360.com/opcvm/fiche/parvest-equity-japan-small-cap-x
+FIDELITY FUNDS SICAV JAPAN FUND Y JPY (C);https://www.opcvm360.com/opcvm/fiche/fidelity-funds-japan-fund-y-jpy-c
+LOMBARD ODIER FUNDS ALPHA JAPAN (JPY) P;https://www.opcvm360.com/opcvm/fiche/lo-funds-alpha-japan-p-jpy-c
+LOMBARD ODIER FUNDS ALPHA JAPAN (JPY) P;https://www.opcvm360.com/opcvm/fiche/lo-funds-alpha-japan-p-d
+ABERDEEN GLOBAL JAPANESE SMALLER COMPANIES A ACC JPY;https://www.opcvm360.com/opcvm/fiche/aberdeen-global-japanese-smaller-companies-a2-c
+BLUEBAY FUNDS BLUEBAY INVESTMENT GRADE EURO AGGREGATE BOND FUND S - JPY;https://www.opcvm360.com/opcvm/fiche/bluebay-funds-bluebay-investment-grade-euro-aggregate-bond-fund-s-jpy

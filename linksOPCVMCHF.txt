@@ -1,0 +1,41 @@
+DNCA INVEST ALPHA BONDS B CAP;https://www.opcvm360.com/opcvm/fiche/alpha-bonds-b-cap
+UBS (LUX) EQUITY FUND MID CAPS USA (USD) P CHF HEDGED;https://www.opcvm360.com/opcvm/fiche/ubs-lux-ef-mid-caps-usa-usd-p
+LOMBARD ODIER FUNDS WORLD GOLD EXPERTISE SYST. HDG, (CHF) I;https://www.opcvm360.com/opcvm/fiche/lo-funds-world-gold-expertise-chf-i-a
+LOMBARD ODIER FUNDS WORLD GOLD EXPERTISE SYST. HDG, (CHF) P;https://www.opcvm360.com/opcvm/fiche/lo-funds-world-gold-expertise-chf-p-a
+LOMBARD ODIER FUNDS WORLD GOLD EXPERTISE SYST. HDG, (CHF) P;https://www.opcvm360.com/opcvm/fiche/lo-funds-world-gold-expertise-chf-p-d
+BLACKROCK GLOBAL FUNDS WORLD GOLD FUND A2 HEDGED CHF (C);https://www.opcvm360.com/opcvm/fiche/blackrock-global-funds-world-gold-fund-a2-hedged-chf-c
+GAM MULTISTOCK SWISS SMALL & MID CAP EQUITY C (C);https://www.opcvm360.com/opcvm/fiche/julius-baer-multistock-swiss-small-mid-cap-stock-fund-c-c
+GAM MULTISTOCK SWISS SMALL & MID CAP EQUITY B (C);https://www.opcvm360.com/opcvm/fiche/julius-baer-multistock-swiss-small-mid-cap-stock-fund-b-c
+GAM MULTISTOCK SWISS SMALL & MID CAP EQUITY A (D);https://www.opcvm360.com/opcvm/fiche/julius-baer-multistock-swiss-small-mid-cap-stock-fund-a-d
+GAM MULTISTOCK SWISS SMALL & MID CAP EQUITY E (C);https://www.opcvm360.com/opcvm/fiche/julius-baer-multistock-swiss-small-mid-cap-stock-fund-e-c
+GAM MULTISTOCK SWISS EQUITY C (C);https://www.opcvm360.com/opcvm/fiche/julius-baer-multistock-swiss-stock-fund-c-c
+UBS ETF (CH) – SMIM® (CHF) A-DIS;https://www.opcvm360.com/opcvm/fiche/ubs-etf-ch-smim-chf-a-dis
+GAM MULTISTOCK SWISS EQUITY A (D);https://www.opcvm360.com/opcvm/fiche/julius-baer-multistock-swiss-stock-fund-a-d
+GAM MULTISTOCK SWISS EQUITY B (C);https://www.opcvm360.com/opcvm/fiche/julius-baer-multistock-swiss-stock-fund-b-c
+CREDIT SUISSE ANLAGESTIFTUNG FUND SELECTION EQUITY USA;https://www.opcvm360.com/opcvm/fiche/credit-suisse-anlagestiftung-fund-selection-equity-usa
+SYNCHRONY (LU) FUNDS SWISS ALL CAPS (CHF) I CAP;https://www.opcvm360.com/opcvm/fiche/swiss-all-caps-chf-i-cap
+AXA WORLD FUNDS FRAMLINGTON DIGITAL ECONOMY G CAPITALISATION CHF (HEDGED);https://www.opcvm360.com/opcvm/fiche/axa-world-funds-framlington-digital-economy-g-capitalisation-chf-hedged
+GAM MULTISTOCK SWISS EQUITY E (C);https://www.opcvm360.com/opcvm/fiche/julius-baer-multistock-swiss-stock-fund-e-c
+UBAM UBAM - SWISS SMALL AND MID CAP EQUITY IPC;https://www.opcvm360.com/opcvm/fiche/swiss-small-and-mid-cap-equity-ipc-chf-capitalisation
+AXA WORLD FUNDS FRAMLINGTON DIGITAL ECONOMY I CHF HEDG CAP;https://www.opcvm360.com/opcvm/fiche/framlington-digital-economy-i-chf-hedg-cap
+UBAM UBAM - SWISS SMALL AND MID CAP EQUITY IC;https://www.opcvm360.com/opcvm/fiche/swiss-small-and-mid-cap-equity-ic-chf-capitalisation
+SYNCHRONY (LU) FUNDS SWISS ALL CAPS (CHF) A CAP;https://www.opcvm360.com/opcvm/fiche/swiss-all-caps-chf-a-cap
+UBAM UBAM - SWISS SMALL AND MID CAP EQUITY APC;https://www.opcvm360.com/opcvm/fiche/swiss-small-and-mid-cap-equity-apc-chf-capitalisation
+AXA WORLD FUNDS FRAMLINGTON DIGITAL ECONOMY F CAPITALISATION CHF (HEDGED);https://www.opcvm360.com/opcvm/fiche/axa-world-funds-framlington-digital-economy-f-capitalisation-chf-hedged
+UBAM UBAM - SWISS SMALL AND MID CAP EQUITY ID;https://www.opcvm360.com/opcvm/fiche/swiss-small-and-mid-cap-equity-id-chf-distribution
+UBAM UBAM - SWISS SMALL AND MID CAP EQUITY UD;https://www.opcvm360.com/opcvm/fiche/swiss-small-and-mid-cap-equity-ud-chf-distribution
+UBAM UBAM - SWISS SMALL AND MID CAP EQUITY AC;https://www.opcvm360.com/opcvm/fiche/swiss-small-and-mid-cap-equity-ac-chf-capitalisation
+UBAM UBAM - SWISS SMALL AND MID CAP EQUITY AD;https://www.opcvm360.com/opcvm/fiche/swiss-small-and-mid-cap-equity-ad-chf-distribution
+PICTET PREMIUM BRANDS HP CHF;https://www.opcvm360.com/opcvm/fiche/pictet-premium-brands-hp-chf
+MULTIPARTNER SICAV ROBECOSAM SMART ENERGY FUND C CHF;https://www.opcvm360.com/opcvm/fiche/julius-baer-multipartner-sicav-sam-smart-energy-fund-c-chf-c
+UBAM UBAM - SWISS EQUITY YC;https://www.opcvm360.com/opcvm/fiche/ubam-swiss-equity-y-chf-cap
+AXA WORLD FUNDS FRAMLINGTON DIGITAL ECONOMY A DISTRIBUTION CHF (HEDGED);https://www.opcvm360.com/opcvm/fiche/axa-world-funds-framlington-digital-economy-a-distribution-chf-hedged
+AXA WORLD FUNDS FRAMLINGTON DIGITAL ECONOMY A CAPITALISATION CHF (HEDGED);https://www.opcvm360.com/opcvm/fiche/framlington-digital-economy-a-capitalisation-chf-hedged
+UBAM UBAM - SWISS EQUITY IC;https://www.opcvm360.com/opcvm/fiche/ubam-swiss-equity-i-c
+UBAM UBAM - SWISS EQUITY UC;https://www.opcvm360.com/opcvm/fiche/ubam-swiss-equity-uc-chf
+VONTOBEL FUND CLEAN TECHNOLOGY HN (HEDGED);https://www.opcvm360.com/opcvm/fiche/vontobel-fund-vontobel-fund-clean-technology-hn-hedged-1
+UBAM UBAM - SWISS EQUITY IHC;https://www.opcvm360.com/opcvm/fiche/swiss-equity-ih-chf-capitalisation
+BLACKROCK GLOBAL FUNDS SWISS SMALL & MIDCAP OPPORTUNITIES FUND I2 (C);https://www.opcvm360.com/opcvm/fiche/blackrock-global-funds-swiss-small-midcap-opportunities-fund-i2-c
+CARMIGNAC PORTFOLIO CARMIGNAC PORTFOLIO GRANDE EUROPE F CHF HEDGED;https://www.opcvm360.com/opcvm/fiche/carmignac-pf-grande-europe-f-chf-acc-hdg
+UBAM UBAM - SWISS EQUITY AC;https://www.opcvm360.com/opcvm/fiche/ubam-swiss-equity-a-c
+PICTET GLOBAL ENVIRONMENTAL OPPORTUNITIES P CHF (C);https://www.opcvm360.com/opcvm/fiche/pictet-environmental-megatrend-selection-p-chf-c
